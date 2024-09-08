@@ -1,0 +1,15 @@
+{
+  "dependencies": [
+    "azure-kinect-sensor-sdk",
+    "spdlog",
+    "glfw3",
+    "glm",
+    {
+      "name": "opencv4",
+      "features": [ "eigen" ]
+    },
+    "eigen3",
+    "draco",
+    "bshoshany-thread-pool"
+  ]
+}
